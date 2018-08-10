@@ -1,0 +1,13 @@
+﻿Instalando o assembly 'e:\ServidorProteçãoCatódica\ServicoServidorSIS\ServicoServidorSIS\bin\Debug\ServicoServidorSIS.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = e:\ServidorProteçãoCatódica\ServicoServidorSIS\ServicoServidorSIS\bin\Debug\ServicoServidorSIS.InstallLog
+   assemblypath = e:\ServidorProteçãoCatódica\ServicoServidorSIS\ServicoServidorSIS\bin\Debug\ServicoServidorSIS.exe
+Instalando o serviço ServicoServidorSIS...
+Serviço ServicoServidorSIS foi instalado com êxito.
+Criando a origem de EventLog ServicoServidorSIS no log Application...
+Confirmando o assembly 'e:\ServidorProteçãoCatódica\ServicoServidorSIS\ServicoServidorSIS\bin\Debug\ServicoServidorSIS.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = e:\ServidorProteçãoCatódica\ServicoServidorSIS\ServicoServidorSIS\bin\Debug\ServicoServidorSIS.InstallLog
+   assemblypath = e:\ServidorProteçãoCatódica\ServicoServidorSIS\ServicoServidorSIS\bin\Debug\ServicoServidorSIS.exe

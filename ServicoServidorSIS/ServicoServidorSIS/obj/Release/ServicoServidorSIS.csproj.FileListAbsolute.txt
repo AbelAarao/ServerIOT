@@ -1,0 +1,10 @@
+E:\ServidorProteçãoCatódica\ServicoServidorSIS\ServicoServidorSIS\bin\Release\ServicoServidorSIS.exe.config
+E:\ServidorProteçãoCatódica\ServicoServidorSIS\ServicoServidorSIS\bin\Release\ServicoServidorSIS.exe
+E:\ServidorProteçãoCatódica\ServicoServidorSIS\ServicoServidorSIS\bin\Release\ServicoServidorSIS.pdb
+E:\ServidorProteçãoCatódica\ServicoServidorSIS\ServicoServidorSIS\obj\Release\ServicoServidorSIS.ProjectInstaller.resources
+E:\ServidorProteçãoCatódica\ServicoServidorSIS\ServicoServidorSIS\obj\Release\ServicoServidorSIS.ServicoServidorSIS.resources
+E:\ServidorProteçãoCatódica\ServicoServidorSIS\ServicoServidorSIS\obj\Release\ServicoServidorSIS.csproj.GenerateResource.Cache
+E:\ServidorProteçãoCatódica\ServicoServidorSIS\ServicoServidorSIS\obj\Release\ServicoServidorSIS.csproj.CoreCompileInputs.cache
+E:\ServidorProteçãoCatódica\ServicoServidorSIS\ServicoServidorSIS\obj\Release\ServicoServidorSIS.exe
+E:\ServidorProteçãoCatódica\ServicoServidorSIS\ServicoServidorSIS\obj\Release\ServicoServidorSIS.pdb
+E:\ServidorProteçãoCatódica\ServicoServidorSIS\ServicoServidorSIS\obj\Release\ServicoServidorSIS.csprojResolveAssemblyReference.cache
